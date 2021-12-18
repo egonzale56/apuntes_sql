@@ -1,0 +1,10 @@
+Para cambiar de directorio en la termimnal se utiliza 'cd'
+
+Para ver que hay en una carpeta en la terminal se utiliza 'ls'
+
+Para agregar todos los cambios hechos en un archivo en la terminal se utilza 'git add .'
+
+Para indicar al github que los cambios son finales se utiliza 'git commit -m "agregar comentario"'
+
+Para mandar los cambios al github pagina web se utiliza en la terminal 'git push -u origin master'
+
